@@ -8,7 +8,7 @@ The dataset for this project is available for download [here](https://www.dropbo
 
 ## Model Development
 ### Pre-trained Embeddings
-To manage the high dimensionality of text data, we leverage GloVe word embeddings. This approach helps in reducing the computational load while retaining information. Detailed guidance on using pre-trained embeddings can be found in this [Keras blog post].
+To manage the high dimensionality of text data, we leverage GloVe word embeddings. This approach helps in reducing the computational load while retaining information.
 
 ### Train/Validation Split
 For effective model evaluation, we create and maintain our own train/validation splits from the provided dataset.
